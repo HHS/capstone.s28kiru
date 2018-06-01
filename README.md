@@ -8,22 +8,10 @@
 </figure>
 
 <h4>Teaching Assistant</h4>
-
-<div class="image">
-    <div>
-        <figure>
-		<img src="circle.png" style="width:50%">
-		<figcaption>Kiruthika Sankaran</figcaption>
-		</figure>
-    </div>
-	
-	<div>
-        <figure>
-		<img src="circle.png" style="width:50%">
-		<figcaption>Kodie McNamara</figcaption>
-		</figure>
-    </div>
-</div>
+<figure>
+<img src="TA.jpg">
+<figcaption>Kiruthika Sankaran     Kodie McNamara</figcaption>
+</figure>
 
 
 TABLE OF CONTENT
