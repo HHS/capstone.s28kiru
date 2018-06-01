@@ -6,6 +6,22 @@
   <img src="Alison.jpg">
   <figcaption>Alison Peebles Madigan</figcaption>
 </figure>
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+</style>
 <h4>Teaching Assistant</h4>
 <div class="row">
   <div class="column">
