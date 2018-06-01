@@ -1,4 +1,4 @@
-<img src="Logo.jpg">
+<img src="Logo.png">
 <h1> Welcome To HHS Data Science in R Course </h1>
  
 <h2>Instructor and Teaching Assistants</h2>
@@ -21,8 +21,8 @@
 <div>
 <table align="center">
 <tr>
-<td align="center"><img src="Kiru.jpg"></td>
-<td align="center"><img src="Kodie.jpg"></td>
+<td align="center"><img src="Kiru.png"></td>
+<td align="center"><img src="Kodie.png"></td>
 </tr>
 <tr>
 <td align="center">Kiruthika Sankaran</td>
