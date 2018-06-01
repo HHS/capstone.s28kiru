@@ -5,10 +5,12 @@
 <div>
 	<figure>
 		<img src="Alison.jpg">
+		<br>
 		<figcaption>Alison Peebles Madigan</figcaption>
 	</figure>
-	<figure style="display: inline-block; clear: right;">
+	<figure>
 		<img src="Alison.jpg">
+		<br>
 		<figcaption>Alison Peebles Madigan</figcaption>
 	</figure>
 </div>
