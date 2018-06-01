@@ -11,14 +11,12 @@
 
 <h3>Teaching Assistant</h3>
 <div>
-	<div style="display:inline-block; width:50%; float:left;">
-		<img src="Kiru.jpg">
-		<p style="font-size: 10px;">Kiruthika Sankaran</p>
-	</div>
-	<div style = "display: inline-block; width:50%; float:right;>
-		<img src="Kodie.jpg">
-		<p style="font-size: 10px;">Kodie McNamara</p>
-	</div>
+<table>
+<tr>
+<td><img src="Kiru.jpg"></td>
+<td><img src="Kodie.jpg"></td>
+</tr>
+</table>	
 </div>
 
 <h2>Course Syllabus</h2>
