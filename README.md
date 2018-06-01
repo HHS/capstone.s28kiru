@@ -5,7 +5,7 @@
 <div>
 	<div>
 		<img src="Alison.jpg">
-		<p style="font-size: 12px;">Alison Peebles Madigan</p>
+		<p style="font-size: 10px;">Alison Peebles Madigan</p>
 	</div>
 	<div style="display: inline-block; clear: right;">
 		<img src="Alison.jpg">
@@ -14,15 +14,20 @@
 </div>
 
 <h3>Teaching Assistant</h3>
-<figure>
-<img src="TA.jpg">
-<figcaption>Kiruthika Sankaran     Kodie McNamara</figcaption>
-</figure>
-
+<div>
+	<div>
+		<img src="Kiru.jpg">
+		<p style="font-size: 10px;">Kiruthika Sankaran</p>
+	</div>
+	<div>
+		<img src="Kodie.jpg">
+		<p style="font-size: 10px;">Kodie McNamara</p>
+	</div>
+</div>
 
 <h2>Course Syllabus</h2>
-This course will be updated every week Friday by 4pm on the following week's content.
-Every week's course objectives will be updated. 
+Here you may find an outline of our class meetings and objectives.<br>
+Course content and objectives for the upcoming week will be updated by Friday at 4PM.
 <table>
   <tr>
     <th><h3><font color="FF8C00">Syllabus</font></h3></th>
@@ -39,7 +44,7 @@ Every week's course objectives will be updated.
 	<td>08-June-2018</td>
   </tr>
 </table>
-<br><br><br>
+<br>
 
 
 <h2>Objectives of the Course</h2>
