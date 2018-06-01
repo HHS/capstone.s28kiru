@@ -7,7 +7,7 @@
 		<img src="Alison.jpg">
 		<p style="font-size: 12px;">Alison Peebles Madigan</p>
 	</div>
-	<div style="display: inline-block;">
+	<div style="display: inline-block; clear: right;">
 		<img src="Alison.jpg">
 		<p>Alison Peebles Madigan</p>
 	</div>
@@ -26,14 +26,9 @@ Every week's course objectives will be updated.
 <table>
   <tr>
     <th><h4><font color="FF8C00">Syllabus</font></h4></th>
-	<th><h4><font color="FF8C00">Week/Date</font></h4></th>
+	<th><h4><font color="FF8C00">Date</font></h4></th>
   </tr>
-  
-  <tr>
-    <td><a href="#week-1" style="color: rgb(255,140,0)"><font color="FF8C00">Course introduction, introduction to Git and fundamentals of R</font></a></td>
-	<td>Week-1</td>
-  </tr>
-  
+    
   <tr>
     <td><a href="#week-1-day-1" style="color: rgb(255,140,0)"><font color="FF8C00">Introduction to git and fundamentals of R</font></a></td>
 	<td>05-June-2018</td>
@@ -45,12 +40,16 @@ Every week's course objectives will be updated.
   </tr>
 </table>
 <br><br><br>
-<br><br><br>
 
-<p id="week-1">
+<p id="week-1-day-1">
 <h4> Week 1: Course introduction, introduction to Git and fundamentals of R</h4>
 R is the programming language we are interested in
-</p><br><br><br>
+</p><br>
+
+<p id="week-1-day-2">
+<h4> Week 1: Course introduction, introduction to Git and fundamentals of R</h4>
+R is the programming language we are interested in
+</p><br>
 
 
 
