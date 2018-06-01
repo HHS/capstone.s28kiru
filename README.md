@@ -21,7 +21,7 @@
 		</figure>
     </div>
 	
-	 <div class="imgContainer">
+	<div class="imgContainer">
         <figure>
 		<img src="circle.png" style="width:100%">
 		<figcaption>Kodie McNamara</figcaption>
