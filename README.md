@@ -10,7 +10,7 @@
 <h4>Teaching Assistant</h4>
 <figure>
 <img src="TA.jpg">
-<figcaption>Kiruthika Sankaran &nbsp;&nbsp;    Kodie McNamara</figcaption>
+<figcaption>Kiruthika Sankaran &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Kodie McNamara</figcaption>
 </figure>
 
 
