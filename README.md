@@ -1,42 +1,33 @@
 <h1> Welcome To HHS Data Science in R Course </h1>
  
-<h3>Instructor and TA's</h3>
+<h3>Instructor and Teaching Assistants</h3>
 <h4>Instructor</h4>
 <figure>
   <img src="Alison.jpg">
   <figcaption>Alison Peebles Madigan</figcaption>
 </figure>
 
-<style>
-* {
-    box-sizing: border-box;
+.imgContainer{
+    float:left;
 }
 
-.row {
-    display: flex;
-}
-
-/* Create three equal columns that sits next to each other */
-.column {
-    flex: 33.33%;
-    padding: 5px;
-}
-</style>
 <h4>Teaching Assistant</h4>
-<div class="row">
-  <div class="column">
-  <figure>
-  <img src="circle.png" style="width:100%">
-  <figcaption>Kiruthika Sankaran</figcaption>
-</figure>
-  </div>
-    <div class="column">
-  <figure>
-  <img src="circle.png" style="width:100%">
-  <figcaption>Kodie McNamara</figcaption>
-</figure>
-  </div>
-  </div>
+
+<div class="image123">
+    <div class="imgContainer">
+        <figure>
+		<img src="circle.png" style="width:100%">
+		<figcaption>Kiruthika Sankaran</figcaption>
+		</figure>
+    </div>
+	
+	 <div class="imgContainer">
+        <figure>
+		<img src="circle.png" style="width:100%">
+		<figcaption>Kodie McNamara</figcaption>
+		</figure>
+    </div>
+</div>
 
 
 TABLE OF CONTENT
