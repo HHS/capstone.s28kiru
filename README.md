@@ -2,8 +2,8 @@
  
 <h2>Instructor and Teaching Assistants</h2>
 <h3>Instructor</h3>
-<div align="center">
-<table style = 'border: none;'>
+<div>
+<table style = "width: auto; margin-left: auto; margin-right: auto;">
 <tr>
 <td align="center"><img src="Alison.jpg"></td>
 </tr>
