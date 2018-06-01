@@ -1,6 +1,7 @@
 <img src="Logo.png">
+<div>
 <h1> Welcome To HHS Data Science in R Course </h1>
- 
+</div>
 <h2>Instructor and Teaching Assistants</h2>
 <h3>Instructor</h3>
 <div>
