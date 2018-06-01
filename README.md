@@ -1,9 +1,10 @@
+<img src="Logo.jpg">
 <h1> Welcome To HHS Data Science in R Course </h1>
  
 <h2>Instructor and Teaching Assistants</h2>
 <h3>Instructor</h3>
 <div>
-<table align="center">
+<table>
 <tr>
 <td align="center"><img src="Alison.jpg"></td>
 </tr>
@@ -29,7 +30,7 @@
 </tr>
 <tr>
 <td align="center">kiruthika@datasociety.com</td>
-<td align="center">Kodie@datasociety.com</td>
+<td align="center">kodie@datasociety.com</td>
 </tr>
 </table>	
 </div>
@@ -73,7 +74,7 @@ Course content and objectives for the upcoming week will be updated by Friday at
   <li>Performing basic calculations in R</li>
   <li>Loading data into R</li>
 </ul>
-</p><br>
+</p>
 
 <p id="week-1-day-2">
 <h4>Fundamentals of R-I</h4>
