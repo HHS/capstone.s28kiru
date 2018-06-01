@@ -24,15 +24,23 @@ TABLE OF CONTENT
 <br><br><br>
 <br><br><br>
 
+<p id="one">
 <h4>INTRODUCTION TO R </h4>
-<p id="one">R is the programming language we are interested in</p><br><br><br>
+R is the programming language we are interested in
+</p><br><br><br>
 
+<p id="two">
 <h4>INTRODUCTION TO Python </h4>
-<p id="two">python is the programming language we are interested in</p><br><br><br>
+python is the programming language we are interested in
+</p><br><br><br>
 
+<p id="three">
 <h4>INTRODUCTION TO C </h4>
-<p id="three">C is the programming language we are interested in</p><br><br><br>
+C is the programming language we are interested in
+</p><br><br><br>
 
+<p id="four">
 <h4>INTRODUCTION TO Java</h4>
-<p id="four">java is the programming language we are interested in</p><br><br><br>
+java is the programming language we are interested in
+</p><br><br><br>
 
