@@ -19,11 +19,13 @@ This course will be updated every week Friday by 4pm on the following week's con
 Every week's course objectives will be updated. 
 <table>
   <tr>
-    <th><h4>Syllabus</h4></th>
+    <th><h4><font color="FF8C00">Syllabus</font></h4></th>
+	<th><h4><font color="FF8C00">Week/Date</font></h4></th>
   </tr>
   
   <tr>
-    <td><a href="#week-1" style="color: rgb(255,140,0)"><font color="FF8C00"> Week 1: Course introduction, introduction to Git and fundamentals of R</font></a></td>
+    <td><a href="#week-1" style="color: rgb(255,140,0)"><font color="FF8C00">Course introduction, introduction to Git and fundamentals of R</font></a></td>
+	<td>Week-1</td>
   </tr>
   
   <tr>
