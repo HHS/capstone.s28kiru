@@ -7,23 +7,19 @@
   <figcaption>Alison Peebles Madigan</figcaption>
 </figure>
 
-.imgContainer{
-    float:left;
-}
-
 <h4>Teaching Assistant</h4>
 
-<div class="image123">
-    <div class="imgContainer">
+<div class="image">
+    <div>
         <figure>
-		<img src="circle.png" style="width:100%">
+		<img src="circle.png" style="width:50%">
 		<figcaption>Kiruthika Sankaran</figcaption>
 		</figure>
     </div>
 	
-	<div class="imgContainer">
+	<div>
         <figure>
-		<img src="circle.png" style="width:100%">
+		<img src="circle.png" style="width:50%">
 		<figcaption>Kodie McNamara</figcaption>
 		</figure>
     </div>
