@@ -2,12 +2,12 @@
  
 <h3>Instructor and Teaching Assistants</h3>
 <h4>Instructor</h4>
-<div style="display: inline-block;">
-	<div>
+<div>
+	<div style="display: inline-block;">
 		<img src="Alison.jpg">
 		<p style="font-size: 12px;">Alison Peebles Madigan</p>
 	</div>
-	<div>
+	<div style="display: inline-block;">
 		<img src="Alison.jpg">
 		<p>Alison Peebles Madigan</p>
 	</div>
