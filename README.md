@@ -3,7 +3,7 @@
 <h3>Instructor and Teaching Assistants</h3>
 <h4>Instructor</h4>
 <div>
-	<div style="display: inline-block;">
+	<div>
 		<img src="Alison.jpg">
 		<p style="font-size: 12px;">Alison Peebles Madigan</p>
 	</div>
