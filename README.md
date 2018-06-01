@@ -1,6 +1,27 @@
-HELLO KIRUTHIKA WELCOME
+<h1> Welcome To HHS Data Science in R Course </h1>
+ 
+<h3>Instructor and TA's</h3>
+<h4>Instructor</h4>
+<figure>
+  <img src="Alison.jpg">
+  <figcaption>Alison Peebles Madigan</figcaption>
+</figure>
+<h4>Teaching Assistant</h4>
+<div class="row">
+  <div class="column">
+  <figure>
+  <img src="circle.png" style="width:100%">
+  <figcaption>Kiruthika Sankaran</figcaption>
+</figure>
+  </div>
+    <div class="column">
+  <figure>
+  <img src="circle.png" style="width:100%">
+  <figcaption>Kodie McNamara</figcaption>
+</figure>
+  </div>
+  </div>
 
-<img src="panda.jpg">
 
 TABLE OF CONTENT
 <table>
