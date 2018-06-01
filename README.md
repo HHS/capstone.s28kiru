@@ -3,33 +3,33 @@
 <h2>Instructor and Teaching Assistants</h2>
 <h3>Instructor</h3>
 <div>
-<table>
+<table border="0">
 <tr>
-<td><img src="Alison.jpg"></td>
+<td align="center"><img src="Alison.jpg"></td>
 </tr>
 <tr>
-<td>Alison Peebles Madigan</td>
+<td align="center">Alison Peebles Madigan</td>
 </tr>
 <tr>
-<td>alison@datasociety.com</td>
+<td align="center">alison@datasociety.com</td>
 </tr>
 </table>
 </div>
 
 <h3>Teaching Assistant</h3>
 <div>
-<table>
+<table border="0">
 <tr>
-<td><img src="Kiru.jpg"></td>
-<td><img src="Kodie.jpg"></td>
+<td align="center"><img src="Kiru.jpg"></td>
+<td align="center"><img src="Kodie.jpg"></td>
 </tr>
 <tr>
-<td>Kiruthika Sankaran</td>
-<td>Kodie McNamara</td>
+<td align="center">Kiruthika Sankaran</td>
+<td align="center">Kodie McNamara</td>
 </tr>
 <tr>
-<td>kiruthika@datasociety.com</td>
-<td>Kodie@datasociety.com</td>
+<td align="center">kiruthika@datasociety.com</td>
+<td align="center">Kodie@datasociety.com</td>
 </tr>
 
 </table>	
