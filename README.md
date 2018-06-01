@@ -3,7 +3,7 @@
 <h2>Instructor and Teaching Assistants</h2>
 <h3>Instructor</h3>
 <div>
-<table border="0">
+<table>
 <tr>
 <td align="center"><img src="Alison.jpg"></td>
 </tr>
@@ -18,7 +18,7 @@
 
 <h3>Teaching Assistant</h3>
 <div>
-<table border="0">
+<table>
 <tr>
 <td align="center"><img src="Kiru.jpg"></td>
 <td align="center"><img src="Kodie.jpg"></td>
@@ -31,13 +31,15 @@
 <td align="center">kiruthika@datasociety.com</td>
 <td align="center">Kodie@datasociety.com</td>
 </tr>
-
 </table>	
 </div>
+<br>
 
 <h2>Course Syllabus</h2>
+
 Here you may find an outline of our class meetings and objectives.<br>
 Course content and objectives for the upcoming week will be updated by Friday at 4PM.
+<br>
 <table>
   <tr>
     <th><h3><font color="FF8C00">Syllabus</font></h3></th>
