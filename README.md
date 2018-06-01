@@ -7,19 +7,15 @@
 		<img src="Alison.jpg">
 		<p style="font-size: 10px;">Alison Peebles Madigan</p>
 	</div>
-	<div style="display: inline-block; clear: right;">
-		<img src="Alison.jpg">
-		<p>Alison Peebles Madigan</p>
-	</div>
 </div>
 
 <h3>Teaching Assistant</h3>
 <div>
-	<div>
+	<div style="display:inline-block; width:100%; float:left;">
 		<img src="Kiru.jpg">
 		<p style="font-size: 10px;">Kiruthika Sankaran</p>
 	</div>
-	<div>
+	<div style = "display: inline-block; width:100%; float:right;>
 		<img src="Kodie.jpg">
 		<p style="font-size: 10px;">Kodie McNamara</p>
 	</div>
