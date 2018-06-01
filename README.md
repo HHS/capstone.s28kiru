@@ -3,10 +3,17 @@
 <h2>Instructor and Teaching Assistants</h2>
 <h3>Instructor</h3>
 <div>
-	<div>
-		<img src="Alison.jpg">
-		<p style="font-size: 10px;">Alison Peebles Madigan</p>
-	</div>
+<table>
+<tr>
+<td><img src="Alison.jpg"></td>
+</tr>
+<tr>
+<td>Alison Peebles Madigan</td>
+</tr>
+<tr>
+<td>alison@datasociety.com</td>
+</tr>
+</table>
 </div>
 
 <h3>Teaching Assistant</h3>
@@ -16,6 +23,15 @@
 <td><img src="Kiru.jpg"></td>
 <td><img src="Kodie.jpg"></td>
 </tr>
+<tr>
+<td>Kiruthika Sankaran</td>
+<td>Kodie McNamara</td>
+</tr>
+<tr>
+<td>kiruthika@datasociety.com</td>
+<td>Kodie@datasociety.com</td>
+</tr>
+
 </table>	
 </div>
 
