@@ -2,10 +2,16 @@
  
 <h3>Instructor and Teaching Assistants</h3>
 <h4>Instructor</h4>
-<figure>
-  <img src="Alison.jpg">
-  <figcaption>Alison Peebles Madigan</figcaption>
-</figure>
+<div>
+	<figure>
+		<img src="Alison.jpg">
+		<figcaption>Alison Peebles Madigan</figcaption>
+	</figure>
+	<figure style="display: inline-block; clear: right;">
+		<img src="Alison.jpg">
+		<figcaption>Alison Peebles Madigan</figcaption>
+	</figure>
+</div>
 
 <h4>Teaching Assistant</h4>
 <figure>
