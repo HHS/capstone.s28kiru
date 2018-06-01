@@ -3,7 +3,7 @@
 <h2>Instructor and Teaching Assistants</h2>
 <h3>Instructor</h3>
 <div>
-<table style = "width: auto; margin-left: auto; margin-right: auto;">
+<table align="center">
 <tr>
 <td align="center"><img src="Alison.jpg"></td>
 </tr>
@@ -18,7 +18,7 @@
 
 <h3>Teaching Assistant</h3>
 <div>
-<table>
+<table align="center">
 <tr>
 <td align="center"><img src="Kiru.jpg"></td>
 <td align="center"><img src="Kodie.jpg"></td>
