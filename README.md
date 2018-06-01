@@ -22,7 +22,7 @@
 <div>
 <table align="center">
 <tr>
-<td align="center"><img src="Kiru.png"></td>
+<td align="center"><img src="Kodie.png"></td>
 <td align="center"><img src="Kodie.png"></td>
 </tr>
 <tr>
