@@ -19,17 +19,27 @@ This course will be updated every week Friday by 4pm on the following week's con
 Every week's course objectives will be updated. 
 <table>
   <tr>
-    <th>TITLE</th>
+    <th><h4>Syllabus</h4></th>
   </tr>
   
   <tr>
-    <td><a href="#week-1-day-1" style="color: rgb(255,140,0)"><font color="FF8C00"> Week 1: Course introduction, introduction to Git and fundamentals of R</font></a></td>
+    <td><a href="#week-1" style="color: rgb(255,140,0)"><font color="FF8C00"> Week 1: Course introduction, introduction to Git and fundamentals of R</font></a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="#week-1-day-1" style="color: rgb(255,140,0)"><font color="FF8C00">Introduction to git and fundamentals of R</font></a></td>
+	<td>05-June-2018</td>
+  </tr>
+  
+  <tr>
+    <td><a href="#week-1-day-2" style="color: rgb(255,140,0)"><font color="FF8C00">Fundamentals of R</font></a></td>
+	<td>08-June-2018</td>
   </tr>
 </table>
 <br><br><br>
 <br><br><br>
 
-<p id="week-1-day-1">
+<p id="week-1">
 <h4> Week 1: Course introduction, introduction to Git and fundamentals of R</h4>
 R is the programming language we are interested in
 </p><br><br><br>
