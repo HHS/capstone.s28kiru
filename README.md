@@ -3,7 +3,7 @@
 <h2>Instructor and Teaching Assistants</h2>
 <h3>Instructor</h3>
 <div>
-<table>
+<table style = 'border: none;'>
 <tr>
 <td align="center"><img src="Alison.jpg"></td>
 </tr>
