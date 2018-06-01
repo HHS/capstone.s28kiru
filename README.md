@@ -1,6 +1,6 @@
 HELLO KIRUTHIKA WELCOME
 
-<img src="panda.jpg" width="500" height="600">
+<img src="panda.jpg">
 
 TABLE OF CONTENT
 <table>
