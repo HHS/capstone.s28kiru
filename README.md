@@ -57,6 +57,16 @@ Course content and objectives for the upcoming week will be updated by Friday at
     <td><a href="#week-1-day-2" style="color: rgb(255,140,0)"><font color="FF8C00">Fundamentals of R-I</font></a></td>
 	<td>08-June-2018</td>
   </tr>
+  
+  <tr>
+    <td><a href="#week-2-day-1" style="color: rgb(255,140,0)"><font color="FF8C00">Fundamentals of R-II</font></a></td>
+	<td>08-June-2018</td>
+  </tr>
+  
+  <tr>
+    <td><a href="#week-2-day-2" style="color: rgb(255,140,0)"><font color="FF8C00">Fundamentals of R-III</font></a></td>
+	<td>08-June-2018</td>
+  </tr>
 </table>
 <br>
 
@@ -85,4 +95,24 @@ Course content and objectives for the upcoming week will be updated by Friday at
   <li>Evaluate and address missing values in data</li>
   <li>Manipulate data types and structures using flow control structures</li>
 </ul>
-</p><br>
+</p>
+
+<h3>Week 2: Fundamentals of R</h3>
+
+<p id="week-2-day-1">
+<h4>Fundamentals of R-II</h4>
+<ul>
+  <li>Evaluate and address missing values in data</li>
+  <li>Manipulate data types and structures using flow control structures</li>
+  <li>Transforming and cleaning data using tidyverse’s dplyr package</li>
+</ul>
+</p>
+
+<p id="week-2-day-2">
+<h4>Fundamentals of R-III</h4>
+<ul>
+   <li>Transforming and cleaning data using tidyverse’s dplyr package</li>
+   <li>Selecting and subsetting data using dplyr</li>
+   <li>Summarizing and aggregating data using tidyverse’s tidyr package</li>
+</ul>
+</p>
